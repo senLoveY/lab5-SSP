@@ -11,8 +11,8 @@ namespace LabMultiThreading
                 Console.Clear();
                 Console.WriteLine("=== Лабораторная работа: Многопоточное программирование ===");
                 Console.WriteLine("1. Часть 1: Producer-Consumer (Задания 2, 3 и 4)");
-                Console.WriteLine("2. Часть 2: Оригинальный Deadlock (Для создания скриншота)");
-                Console.WriteLine("3. Часть 2: Исправленный Deadlock (Один порядок + TryEnter)");
+                Console.WriteLine("2. Часть 2: Оригинальный Deadlock");
+                Console.WriteLine("3. Часть 2: Исправленный Deadlock");
                 Console.WriteLine("4. Часть 3: Межпроцессный Mutex");
                 Console.WriteLine("0. Выход");
                 Console.Write("\nВыберите пункт меню: ");
